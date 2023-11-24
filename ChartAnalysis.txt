@@ -1,0 +1,24 @@
+﻿Phân tích dữ liệu biểu đồ:
+-Dựa vào dữ liệu biểu đồ, có thể thấy nhu cầu người dùng về số lượng đơn order có xu hướng tăng giảm thất thường trong thời gian 1 năm. Cụ thể, trong 6 tháng đầu năm, nhu cầu người dùng khá thấp, chỉ dao động từ 1-3 đơn order/tháng. Tuy nhiên, trong 6 tháng cuối năm, nhu cầu người dùng tăng mạnh, với mức cao nhất là 12 đơn order/tháng.
+
+-Để đáp ứng nhu cầu người dùng tăng hay giảm theo thời gian, nhà phát triển phần mềm cần lựa chọn công nghệ có tính linh hoạt cao, có thể mở rộng hoặc thu hẹp quy mô hệ thống một cách dễ dàng. Một số công nghệ đáp ứng được yêu cầu này bao gồm:
++Công nghệ đám mây: Công nghệ đám mây cung cấp khả năng mở rộng quy mô hệ thống theo nhu cầu sử dụng, giúp tiết kiệm chi phí xây dựng và vận hành.
++Công nghệ container: Công nghệ container giúp phân tách ứng dụng thành các đơn vị nhỏ, dễ dàng di chuyển và triển khai trên các nền tảng khác nhau.
++Công nghệ micro-services: Công nghệ micro-services giúp chia nhỏ hệ thống thành các thành phần nhỏ, dễ dàng phát triển và bảo trì.
+
+-Ngoài việc đáp ứng nhu cầu người dùng tăng hay giảm theo thời gian, nhà phát triển phần mềm cũng cần lựa chọn công nghệ tiết kiệm chi phí xây dựng, vận hành và bảo trì hệ thống. Một số công nghệ đáp ứng được yêu cầu này bao gồm:
++Công nghệ mã nguồn mở: Công nghệ mã nguồn mở cung cấp các giải pháp phần mềm miễn phí hoặc có chi phí thấp, giúp tiết kiệm chi phí phát triển.
++Công nghệ sử dụng lại: Công nghệ sử dụng lại giúp tái sử dụng các thành phần phần mềm đã có sẵn, giúp giảm thời gian và chi phí phát triển.
++Công nghệ tự động hóa: Công nghệ tự động hóa giúp thực hiện các tác vụ thủ công một cách tự động, giúp giảm chi phí vận hành và bảo trì.
+
+-Khi lựa chọn công nghệ, nhà phát triển phần mềm cần cân nhắc các yếu tố sau để phù hợp với từng doanh nghiệp:
++Nhu cầu cụ thể của doanh nghiệp: Mỗi doanh nghiệp có nhu cầu sử dụng phần mềm khác nhau. Do đó, nhà phát triển phần mềm cần lựa chọn công nghệ đáp ứng được nhu cầu cụ thể của doanh nghiệp đó.
++Khả năng tài chính của doanh nghiệp: Chi phí xây dựng, vận hành và bảo trì hệ thống là một yếu tố quan trọng cần cân nhắc khi lựa chọn công nghệ.
++Khả năng quản lý của doanh nghiệp: Doanh nghiệp cần có khả năng quản lý và vận hành hệ thống một cách hiệu quả.
+
+-Có 3 lý do chính để nhà phát triển phần mềm lựa chọn công nghệ đáp ứng nhu cầu người dùng tăng hay giảm theo thời gian đồng thời tiết kiệm chi phí xây dựng, vận hành và bảo trì hệ thống:
++Đáp ứng nhu cầu người dùng: Nhu cầu người dùng luôn thay đổi theo thời gian. Do đó, hệ thống cần có khả năng đáp ứng nhu cầu người dùng một cách linh hoạt, tránh tình trạng quá tải hoặc thiếu hụt tài nguyên khi nhu cầu người dùng tăng hoặc giảm.
++Tiết kiệm chi phí: Chi phí xây dựng, vận hành và bảo trì hệ thống là một yếu tố quan trọng cần cân nhắc khi lựa chọn công nghệ. Việc lựa chọn công nghệ tiết kiệm chi phí giúp doanh nghiệp giảm thiểu chi phí đầu tư và vận hành hệ thống.
++Nâng cao hiệu quả: Việc lựa chọn công nghệ đáp ứng nhu cầu người dùng và tiết kiệm chi phí giúp doanh nghiệp nâng cao hiệu quả hoạt động, tăng khả năng cạnh tranh.
+
+Tóm lại, nhà phát triển phần mềm cần cân nhắc các yếu tố nhu cầu cụ thể của doanh nghiệp, khả năng tài chính của doanh nghiệp, khả năng quản lý của doanh nghiệp để lựa chọn công nghệ đáp ứng nhu cầu người dùng tăng hay giảm theo thời gian đồng thời tiết kiệm chi phí xây dựng, vận hành và bảo trì hệ thống.
